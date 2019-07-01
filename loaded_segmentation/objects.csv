@@ -1,0 +1,19 @@
+,class,corrected_raw_name,instancendx,iscrop,listattributes
+0,wall,wall,"(1.0,)","(0.0,)",
+1,wall,wall,"(2.0,)","(0.0,)",
+2,"floor, flooring",floor,"(3.0,)","(0.0,)",wood
+3,ceiling,ceiling,"(4.0,)","(0.0,)",
+4,"windowpane, window",window,"(5.0,)","(1.0,)",
+5,"windowpane, window",window,"(6.0,)","(1.0,)",
+6,"curtain, drape, drapery, mantle, pall",curtain,"(7.0,)","(0.0,)",translucent
+7,"curtain, drape, drapery, mantle, pall",curtain,"(8.0,)","(0.0,)",translucent
+8,"curtain, drape, drapery, mantle, pall",curtain,"(9.0,)","(0.0,)",translucent
+9,"painting, picture",picture,"(10.0,)","(0.0,)",photo
+10,table,night table,"(11.0,)","(1.0,)",
+11,table,night table,"(12.0,)","(0.0,)",
+12,pot,pot,"(13.0,)","(0.0,)",ceramic
+13,bed,bed,"(14.0,)","(0.0,)",single
+14,bed,bed,"(15.0,)","(0.0,)",single
+15,"chest of drawers, chest, bureau, dresser",chest of drawers,"(16.0,)","(0.0,)",
+16,"painting, picture",picture,"(17.0,)","(1.0,)",photo
+17,lamp,table lamp,"(18.0,)","(0.0,)","direct,general,off,volumetric"
