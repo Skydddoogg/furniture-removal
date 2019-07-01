@@ -53,4 +53,4 @@ Release soon...
 
 ---
 
-This project is a main part of my research internship at [VISTEC](https://www.vistec.ac.th/home/) under the supervision of Prof. [Supasorn Suwajanakorn](https://www.supasorn.com/).
+This project is the main part of my research internship at [VISTEC](https://www.vistec.ac.th/home/) under the supervision of Prof. [Supasorn Suwajanakorn](https://www.supasorn.com/).
