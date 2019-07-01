@@ -9,10 +9,11 @@ The configurations are in `config.py`
 * **img_name:** image name
 * **considered_obj:** a list of considered objects to be removed
 
----
 ### 2. Load segment files
 
-`python load_segment.py`
+```
+python load_segment.py
+```
 
 Outputs are stored in `loaded_segmentation` and should be the following files:
 * om.npy
@@ -22,10 +23,11 @@ Outputs are stored in `loaded_segmentation` and should be the following files:
 * objects.csv
 * parts.csv
 
----
 ### 3. Extract segments and create masks
 
-`python extract_segment.py`
+```
+python extract_segment.py
+```
 
 Example of extrated segments
 <p align="center">
