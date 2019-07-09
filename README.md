@@ -39,7 +39,16 @@ Example of extrated segments
   </kbd>
 </p>
 
-The extracted segments will be utilised to create masks as an example below.
+The extracted segments will be utilised to create masks as examples below.
+
+<p align="center">
+  <kbd>
+    <img src="https://github.com/Skydddoogg/furniture-removal/blob/master/masks/ADE_train_000002418.0.jpg" height="220" width="400">
+  </kbd>
+  <kbd>
+  <img src="https://github.com/Skydddoogg/furniture-removal/blob/master/masks/ADE_train_0000024112.0.jpg" height="220" width="400" border="5px">
+  </kbd>
+</p>
 
 <p align="center">
   <img src="https://github.com/Skydddoogg/furniture-removal/blob/master/network_input/ADE_train_00000241.png" height="220" width="400">
