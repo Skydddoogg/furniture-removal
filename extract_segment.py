@@ -45,7 +45,7 @@ network_input = Image.open(img_path)
 network_input = network_input.convert('RGBA')
 
 network_input_data = network_input.load()
-n_segment = 1
+
 for segmented_img in segmented_imgs:
     segmented = Image.open(segmented_img)
     segmented = segmented.convert('RGB')
@@ -59,7 +59,5 @@ for segmented_img in segmented_imgs:
             else:
                 segmented_data[x, y] = (255, 255, 255)
     segmented.save('masks/' + segmented_img.split('/')[1].split('.png')[0] + '.jpg')
-
-    n_segment += 1
 
 network_input.save('network_input/' + img_name + '.png')

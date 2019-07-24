@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# FurNet
+ADE20K_2016_07_26/
+loaded_segmentation/
+
 # Distribution / packaging
 .Python
 build/
