@@ -9,6 +9,9 @@ __pycache__/
 # FurNet
 ADE20K_2016_07_26/
 loaded_segmentation/
+network_input/
+extracted_segments/
+masks/
 
 # Distribution / packaging
 .Python
