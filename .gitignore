@@ -12,6 +12,8 @@ loaded_segmentation/
 network_input/
 extracted_segments/
 masks/
+.vscode/
+PConv/pretrained_models/
 
 # Distribution / packaging
 .Python

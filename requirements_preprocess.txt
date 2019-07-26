@@ -20,7 +20,6 @@ jupyter-console==6.0.0
 jupyter-core==4.5.0
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
-matlabengineforpython===R2016b
 matplotlib==3.0.3
 mistune==0.8.4
 nbconvert==5.5.0
