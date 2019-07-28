@@ -5,13 +5,13 @@ from keras.engine import InputSpec
 from keras.layers import Conv2D
 
 import tensorflow as tf
-from tensorflow.compat.v1 import ConfigProto
-config = ConfigProto()
-config.gpu_options.allow_growth = True
 
-sess = tf.Session(config=config)
-K.set_session(sess)
-
+# Open the code below if you want to use GPU.
+# from tensorflow.compat.v1 import ConfigProto
+# config = ConfigProto()
+# config.gpu_options.allow_growth = True
+# sess = tf.Session(config=config)
+# K.set_session(sess)
 
 class PConv2D(Conv2D):
     def __init__(self, *args, n_channels=3, mono=False, **kwargs):

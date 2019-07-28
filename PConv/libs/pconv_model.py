@@ -15,12 +15,12 @@ from keras.utils.multi_gpu_utils import multi_gpu_model
 
 from .pconv_layer import PConv2D
 
-from tensorflow.compat.v1 import ConfigProto
-config = ConfigProto()
-config.gpu_options.allow_growth = True
-
-sess = tf.Session(config=config)
-K.set_session(sess)
+# Open the code below if you want to use GPU.
+# from tensorflow.compat.v1 import ConfigProto
+# config = ConfigProto()
+# config.gpu_options.allow_growth = True
+# sess = tf.Session(config=config)
+# K.set_session(sess)
 
 class PConvUnet(object):
 
