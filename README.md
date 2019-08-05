@@ -22,4 +22,4 @@ Follow steps in `prediction.ipynb`
 
 ---
 
-This is the project of my research internship at school of Information Science and Technology (IST), [VISTEC](https://www.vistec.ac.th/home/) under the supervision of Prof. [Supasorn Suwajanakorn](https://www.supasorn.com/).
+This is the project of my research internship at school of Information Science and Technology (IST), [VISTEC](https://www.vistec.ac.th/home/), under the supervision of Prof. [Supasorn Suwajanakorn](https://www.supasorn.com/).
