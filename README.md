@@ -2,7 +2,11 @@
 This is a mini project during my research internship at school of Information Science and Technology (IST), [VISTEC](https://www.vistec.ac.th/home/), under the supervision of Prof. [Supasorn Suwajanakorn](https://www.supasorn.com/).
 
 ## About FurNet
-The literature Image Inpainting for Irregular Holes Using Partial Convolutions shows that image inpainting network can be utilised for object removal task. Hence, an image inpainting network is used in this project.
+<p align="center">
+  <img src="https://github.com/Skydddoogg/furniture-removal/blob/master/project_images/furnet1.png" width="300"/>
+</p>
+
+The literature [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723) shows that image inpainting network can be utilised for object removal task. Hence, an image inpainting network is used in this project.
 
 In this project partial convolutions for image inpainting with pre-trained weight on ImageNet is used to perform the furniture removal task. Technically, to remove furniture objects in an image, a mask image of furniture objects in the image needs to be created first. The mask image and the original image will be fed into the network, and the network will then output the image with no the furniture objects which are represented in the mask image.
 
