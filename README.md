@@ -1,5 +1,5 @@
 # FurNet: A Deep-Learning-Based Framework for Removing Furniture Objects in Room Image
-This is a mini project during my research internship at school of Information Science and Technology (IST), [VISTEC](https://www.vistec.ac.th/home/), under the supervision of Prof. [Supasorn Suwajanakorn](https://www.supasorn.com/).
+This is a mini project I have done during my research internship at school of Information Science and Technology (IST), [VISTEC](https://www.vistec.ac.th/home/), under the supervision of Prof. [Supasorn Suwajanakorn](https://www.supasorn.com/).
 
 ## About FurNet
 <p align="center">
